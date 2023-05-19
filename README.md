@@ -4,5 +4,6 @@ This is my attempt to create a starting point for React Native project. It provi
 
 ### What's included
 
-React Native in TypeScript
-TailwindCSS for React Native
+- React Native in TypeScript
+- TailwindCSS for React Native
+- React Navigation Screens
